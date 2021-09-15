@@ -2,7 +2,7 @@
 
 - :cherry_blossom:꒱﹕ Hi, I’m Haru!
 - :wind_chime: ꒱﹕ Graphic Design student 
-- :crescent_moon:꒱﹕ Beginner programmer working on CSS and HTML
+- :crescent_moon:꒱﹕ Beginner ; working on CSS and HTML
 
 # Tools
 ![Adobe Photoshop](https://i.kawaii.sh/cdzjNPt.png)
